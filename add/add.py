@@ -1,3 +1,7 @@
+'''
+Jon Lee 2020
+Solution to python practice exercise at https://www.pythonmorsels.com/exercises/cb8fbdd52cf14f8cb31df4f06343cccf/
+'''
 def add(*args) -> list:
 
 	if len(args) == 0:
